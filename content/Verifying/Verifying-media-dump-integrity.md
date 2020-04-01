@@ -1,3 +1,7 @@
+---
+title: "Verifying Media Dump Integrity"
+---
+
 ## Command description
 This operation will verify a media dump.
 If the media dump format includes a hash or checksum, it will calculate and compare it.

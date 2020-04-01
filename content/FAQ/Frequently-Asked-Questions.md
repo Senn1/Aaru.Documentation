@@ -1,3 +1,7 @@
+---
+title: "Frequently Asked Questions"
+---
+
 # Why the name, why Aaru?
 Aaru is the Ancient Egyptian concept of paradise where your soul would be rebirthed after the preservation of your physical body. That's why we chose this name, because of the paradise where data will reside after it's has been preserved from its original physical media.
 

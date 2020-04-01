@@ -1,3 +1,7 @@
+---
+title: "Supported Checksums"
+---
+
 * Adler-32
 * CRC-16
 * CRC-32

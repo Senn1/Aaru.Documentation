@@ -1,3 +1,7 @@
+---
+title: "List Supported Namespaces"
+---
+
 ## Command description
 This operation will list all the supported namespaces of the [[Filesystems-recognized-by-DiscImageChef|supported filesystems]].
 

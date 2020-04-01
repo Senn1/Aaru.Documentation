@@ -1,3 +1,7 @@
+---
+title: "File Systems Recognized By Aaru"
+---
+
 Supported file systems for read-only operations
 ===============================================
 * Apple DOS file system

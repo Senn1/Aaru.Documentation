@@ -1,3 +1,7 @@
+---
+title: "Calculate Dump Content's Entropy"
+---
+
 # Table of Contents
 
 - [Command Description](#command-description)

@@ -1,3 +1,7 @@
+---
+title: "Supported Devices"
+---
+
 The following physical devices are supported:
 
 ## Operating system support

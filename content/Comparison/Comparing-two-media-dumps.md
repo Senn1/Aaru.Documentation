@@ -1,3 +1,7 @@
+---
+title: "Comparing Two Media Dumps"
+---
+
 # Table of Contents
 
 - [Command Description](#command-description)

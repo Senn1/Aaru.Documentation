@@ -1,3 +1,7 @@
+---
+title: "Configure Aaru Statistics"
+---
+
 # Table of Contents
 
 - [Command Description](#command-description)

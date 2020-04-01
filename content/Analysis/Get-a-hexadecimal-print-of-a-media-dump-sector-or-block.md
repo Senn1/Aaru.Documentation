@@ -1,3 +1,7 @@
+---
+title: "Get a Hexadecimal Print of a Media Dump Sector or Block"
+---
+
 # Table of Contents
 
 - [Command Description](#command-description)

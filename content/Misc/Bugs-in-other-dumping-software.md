@@ -1,3 +1,7 @@
+---
+title: "Bugs in Other Dumping Softwares"
+---
+
 Some software contains bugs that can make users think the problem resides with Aaru. This page contains a list of such bugs.
 
 ### ImgBurn complains image is smaller than disc

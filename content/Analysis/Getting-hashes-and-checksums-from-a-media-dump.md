@@ -1,3 +1,7 @@
+---
+title: "Getting Hashes and Checksums From a Media Dump"
+---
+
 # Table of Contents
 
 - [Command Description](#command-description)

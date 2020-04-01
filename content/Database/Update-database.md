@@ -1,3 +1,7 @@
+---
+title: "Update Database"
+---
+
 ## Command description
 This operation will update the master database, and can optionalyl clear the master and local database.
 

@@ -1,3 +1,7 @@
+---
+title: "Creating Metadata Sidecar XML"
+---
+
 # Table of Contents
 
 - [Command Description](#command-description)

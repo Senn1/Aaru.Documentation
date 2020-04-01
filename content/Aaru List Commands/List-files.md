@@ -1,3 +1,7 @@
+---
+title: "List Files"
+---
+
 ## Command description
 This operation will analyze and find all filesystems in a media dump and list all the files that are contained in [[Filesystems-recognized-by-Aaru.md|supported filesystems]].
 

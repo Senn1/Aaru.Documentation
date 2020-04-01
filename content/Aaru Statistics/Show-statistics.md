@@ -1,3 +1,7 @@
+---
+title: "Show Statistics"
+---
+
 ## Command description
 This operation will show the statistics that have been stored locally on your environment.
 

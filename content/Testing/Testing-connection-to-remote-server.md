@@ -1,3 +1,7 @@
+---
+title: "Testing Connection to Remote Server"
+---
+
 ## Command description
 This operation tests the connection between Aaru and the specified Aaru Remote Server.
 

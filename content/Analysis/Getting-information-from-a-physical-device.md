@@ -1,3 +1,7 @@
+---
+title: "Getting Information From a Physical Device"
+---
+
 # Table of Contents
 
 - [Command Description](#command-description)

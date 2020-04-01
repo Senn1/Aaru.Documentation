@@ -1,3 +1,7 @@
+---
+title: "Getting Information From a Media Dump"
+---
+
 # Table of Contents
 
 - [Command Description](#command-description)

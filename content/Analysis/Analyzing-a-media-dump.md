@@ -1,3 +1,7 @@
+---
+title: "Analysing a Media Dump"
+---
+
 # Analyzing a media dump
 
 This operation will analyze a media dump, and if the format is recognized and you choose so, it will search for [supported partitioning schemes](Partitioning-schemes-recognized-by-Aaru.md) and [supported filesystems](Filesystems-recognized-by-Aaru.md) on the dump, showing information about them.

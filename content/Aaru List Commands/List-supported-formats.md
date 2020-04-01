@@ -1,3 +1,7 @@
+---
+title: "List Supported Formats"
+---
+
 ## Command description
 This operation will list all filters, dump media formats, partitioning schemes and filesystems supported by your version of Aaru.
 

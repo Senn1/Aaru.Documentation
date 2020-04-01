@@ -1,3 +1,7 @@
+---
+title: "Comparison"
+---
+
 In this page you can find a comparison between Aaru and other dump image managers or creators.
 
 ## Comparison of optical discs image managers

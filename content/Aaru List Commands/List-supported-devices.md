@@ -1,3 +1,7 @@
+---
+title: "List Supported Devices"
+---
+
 ## Command description
 This operation will show all known attached devices on your system and if they are supported for device dependent operations.
 
